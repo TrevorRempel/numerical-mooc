@@ -106,3 +106,4 @@ def plot_flight_path(yt, y0, theta0):
     plt.show()
 
 # End of File
+plot_flight_path(64,16,0)
